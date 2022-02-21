@@ -1,0 +1,32 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 2rem;
+  align-items: center;
+  font-weight: 500;
+  &__right {
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+    .nav__right-1 {
+      display: flex;
+      gap: 2rem;
+    }
+    .nav__right-2 {
+      align-items: center;
+      display: flex;
+      gap: 2rem;
+      a {
+        border: 0.1rem solid $color-white;
+        padding: 1rem 3rem;
+        border-radius: 2rem;
+        @include transition;
+      }
+
+      .hover__link {
+        background-color: $color-white;
+        color: $color-black;
+      }
+    }
+  }
+}

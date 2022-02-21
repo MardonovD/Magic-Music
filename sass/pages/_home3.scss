@@ -1,0 +1,32 @@
+.dnav__center {
+  display: flex;
+  gap: 3rem;
+  .opasity {
+    opacity: 0.7;
+  }
+}
+
+.genres {
+  margin-top: 4rem;
+}
+
+.genres__image {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 2rem 0;
+  img {
+    width: 16rem;
+    margin: 2rem 0;
+  }
+}
+
+.moods__image {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  img {
+    width: 16rem;
+    margin: 2rem 0;
+  }
+}

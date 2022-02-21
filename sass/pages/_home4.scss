@@ -1,0 +1,58 @@
+.popular__image {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  img {
+    width: 16rem;
+    margin: 2rem 0;
+  }
+}
+
+.popular {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+}
+
+.button-d {
+  width: 20rem;
+  height: 4rem;
+  border: none;
+  border-radius: 2rem;
+  background-color: transparent;
+  border: 2px solid $color-white;
+  color: $color-white;
+  margin-left: 45rem;
+  margin-top: 5rem;
+}
+
+.featured__text {
+  display: flex;
+  justify-content: space-between;
+  margin: 4rem 0;
+}
+
+.featured__image {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  img {
+    width: 35rem;
+    margin: 2rem 0;
+  }
+}
+
+.categories {
+  margin-top: 4rem;
+}
+
+.categories__image {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  img {
+    width: 16rem;
+    margin: 2rem 0;
+  }
+}

@@ -1,0 +1,28 @@
+.rock {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  margin-top: 4rem;
+  margin-bottom: 1rem;
+  a {
+    font-size: 1.4rem;
+    opacity: 0.8;
+  }
+}
+
+.week {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
+}
+
+.week__image {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  img {
+    width: 16rem;
+  }
+}

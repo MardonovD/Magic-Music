@@ -1,0 +1,38 @@
+html {
+  font-size: 62.5%;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: $color-white;
+}
+body {
+  color: $color-white;
+  background-color: $color-black;
+  text-decoration: none;
+  font-size: $text;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.dcontainer {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.container-flow {
+  width: 80%;
+  margin: 0 auto;
+}

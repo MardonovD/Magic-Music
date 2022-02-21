@@ -1,0 +1,13 @@
+.header__title {
+  text-align: center;
+  .title {
+    font-size: $heading-1-header;
+    width: 60%;
+  }
+}
+
+.text-header {
+  display: flex;
+  gap: 3rem;
+  margin-top: 2rem;
+}

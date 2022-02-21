@@ -1,0 +1,153 @@
+.dnav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+  &__right {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    input {
+      padding-left: 3rem;
+      border-radius: 1rem;
+      padding: 0.5rem 0;
+    }
+  }
+
+  &__left {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  &__link {
+    border: 1px solid white;
+    padding: 1rem 2rem;
+    border-radius: 2rem;
+  }
+}
+
+.dflow {
+  img {
+    width: 30%;
+  }
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.dflow__menu {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+
+.recently__image {
+  img {
+    width: 18rem;
+    height: 18rem;
+  }
+  display: flex;
+  // flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.next {
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem 0;
+}
+
+.dmuted img {
+  width: 90vw;
+  margin: 4rem auto;
+  margin-left: 5rem;
+}
+
+.hip {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 4rem;
+  img {
+    width: 15rem;
+    // height: 15rem;
+  }
+}
+
+.monday__image {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  img {
+    width: 16rem;
+  }
+}
+
+.monday__text {
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem 0;
+}
+.podcast {
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem 0;
+}
+
+.podcast__image {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  img {
+    width: 20rem;
+  }
+}
+
+.playlist {
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem 0;
+}
+
+.playlist__images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  img {
+    width: 16rem;
+  }
+}
+
+.releases {
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem 0;
+}
+
+.releases__image {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  img {
+    width: 16rem;
+  }
+}
+
+.artist__text {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 2rem 0;
+}
+
+.artist__image {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  img {
+    width: 16rem;
+  }
+}

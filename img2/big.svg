@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1480" height="576.399" viewBox="0 0 1480 576.399">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="22" height="22" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Podcast_Episodes" data-name="Podcast Episodes" transform="translate(-220 -450)">
+    <text id="TITTLE" transform="translate(268 514.399)" fill="#99999f" font-size="14" font-family="Lato-Bold, Lato" font-weight="700" letter-spacing="0.006em"><tspan x="0" y="0">TITTLE</tspan></text>
+    <text id="UPLOAD_TIME" data-name="UPLOAD TIME" transform="translate(1439 514.399)" fill="#99999f" font-size="14" font-family="Lato-Bold, Lato" font-weight="700" letter-spacing="0.006em"><tspan x="0" y="0">UPLOAD TIME</tspan></text>
+    <text id="PROGRESS" transform="translate(1259 514.399)" fill="#99999f" font-size="14" font-family="Lato-Bold, Lato" font-weight="700" letter-spacing="0.006em"><tspan x="0" y="0">PROGRESS</tspan></text>
+    <text id="TIME" transform="translate(1646 514.399)" fill="#99999f" font-size="14" font-family="Lato-Bold, Lato" font-weight="700" letter-spacing="0.006em"><tspan x="0" y="0">TIME</tspan></text>
+    <g id="Search_Episode" data-name="Search Episode" transform="translate(220 450.399)">
+      <rect id="Rectangle_2479" data-name="Rectangle 2479" width="139" height="1.5" transform="translate(0 27.601)" fill="#fff"/>
+      <text id="Search_episode-2" data-name="Search episode" transform="translate(32 15.601)" fill="#fff" font-size="16" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">Search episode</tspan></text>
+      <g id="Search_Icon_22" data-name="Search Icon 22" clip-path="url(#clip-path)">
+        <path id="Search_Icon_22-2" data-name="Search Icon 22" d="M18.367,19.4l6.417,6.3.917-.9-6.417-6.3a8.838,8.838,0,0,0-.306-12.2,9.014,9.014,0,0,0-6.417-2.6A8.383,8.383,0,0,0,6.348,6.3a8.818,8.818,0,0,0,0,12.6,9.19,9.19,0,0,0,6.417,2.6A9.92,9.92,0,0,0,18.367,19.4Zm-11-1.7a7.154,7.154,0,0,1,0-10.4,7.475,7.475,0,0,1,10.593,0,7.211,7.211,0,0,1,0,10.4A7.536,7.536,0,0,1,7.367,17.7Z" transform="translate(-3.7 -3.7)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="More" transform="translate(1700 462) rotate(90)">
+      <circle id="Ellipse_23" data-name="Ellipse 23" cx="2.4" cy="2.4" r="2.4" transform="translate(0)" fill="#fff"/>
+      <circle id="Ellipse_24" data-name="Ellipse 24" cx="2.4" cy="2.4" r="2.4" transform="translate(0 9.6)" fill="#fff"/>
+      <circle id="Ellipse_25" data-name="Ellipse 25" cx="2.4" cy="2.4" r="2.4" transform="translate(0 19.2)" fill="#fff"/>
+    </g>
+    <g id="Cosmic_Queries_-_Neuroscience" data-name="Cosmic Queries - Neuroscience">
+      <text id="_49:45" data-name="49:45" transform="translate(1646 578.4)" fill="#99999f" font-size="15" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">49:45</tspan></text>
+      <text id="_22_03_19" data-name="22/03/19" transform="translate(1439 578.4)" fill="#99999f" font-size="15" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">22/03/19</tspan></text>
+      <text id="Cosmic_Queries_-_Neuroscience-2" data-name="Cosmic Queries - Neuroscience" transform="translate(268 553.399)" fill="#fff" font-size="15" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">Cosmic Queries - Neuroscience</tspan></text>
+      <text id="Psychodelic_drugs_dreams_mental_health_awareness_understanding_our_reality_and_more_-_Neil_deGrasse_Tyson_neuroscientist_Heather_Berlin_PhD_and_first-time_comic_co-host_Jackie_Hoffman_answer_fan-submitted_questions_about_neuroscience._NOTE:_StarTal" data-name="Psychodelic drugs, dreams, mental health awareness, understanding our reality, and more - Neil deGrasse Tyson, neuroscientist Heather Berlin, 
+PhD, and first-time comic co-host Jackie Hoffman answer fan-submitted questions about neuroscience. NOTE: StarTal" transform="translate(268 579.4)" fill="#99999f" font-size="14" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">Psychodelic drugs, dreams, mental health awareness, understanding our reality, and more - Neil deGrasse Tyson, neuroscientist Heather Berlin, </tspan><tspan x="0" y="24">PhD, and first-time comic co-host Jackie Hoffman answer fan-submitted questions about neuroscience. NOTE: StarTalk All-Access subscribers...</tspan></text>
+      <rect id="Rectangle_3039" data-name="Rectangle 3039" width="120" height="4" rx="2" transform="translate(1259 572.399)" fill="#949494" opacity="0.5"/>
+      <rect id="Rectangle_3043" data-name="Rectangle 3043" width="80" height="4" rx="2" transform="translate(1259 572.399)" fill="#2dceef"/>
+      <g id="Podcast" transform="translate(234 568.399)">
+        <path id="Path_457" data-name="Path 457" d="M11.411,1.2a3.373,3.373,0,0,1,.941,2.268A3.3,3.3,0,0,1,11.3,5.9" transform="translate(-2.92 2.111)" fill="none"/>
+        <path id="Path_458" data-name="Path 458" d="M2.085,5.826A3.37,3.37,0,0,1,1.975,1.4" transform="translate(1.591 2.021)" fill="none"/>
+        <path id="Path_464" data-name="Path 464" d="M18.015,2.6A8.053,8.053,0,0,0,15.8,8.089a8.007,8.007,0,0,0,2.5,5.778" transform="translate(-15.8 -2.6)" fill="none" stroke="#fff" stroke-width="1.5"/>
+        <path id="Path_465" data-name="Path 465" d="M12.048,1.7A4.877,4.877,0,0,0,10.7,5.167a4.678,4.678,0,0,0,1.637,3.66" transform="translate(-7.811 0.322)" fill="none" stroke="#fff" stroke-width="1.5"/>
+        <path id="Path_466" data-name="Path 466" d="M16.089,2.6A8.053,8.053,0,0,1,18.3,8.089a8.007,8.007,0,0,1-2.5,5.778" transform="translate(-6.111 -2.6)" fill="none" stroke="#fff" stroke-width="1.5"/>
+        <path id="Path_467" data-name="Path 467" d="M10.989,1.7a4.877,4.877,0,0,1,1.348,3.467A4.678,4.678,0,0,1,10.7,8.827" transform="translate(-3.033 0.322)" fill="none" stroke="#fff" stroke-width="1.5"/>
+      </g>
+    </g>
+    <g id="_ICYMI_-_NASCAR_vs_Formula_1" data-name="#ICYMI - NASCAR vs Formula 1">
+      <text id="_51:35" data-name="51:35" transform="translate(1646 788.399)" fill="#99999f" font-size="15" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">51:35</tspan></text>
+      <text id="_14_03_19" data-name="14/03/19" transform="translate(1439 788.399)" fill="#99999f" font-size="15" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">14/03/19</tspan></text>
+      <text id="_ICYMI_-_NASCAR_vs_Formula_1-2" data-name="#ICYMI - NASCAR vs Formula 1" transform="translate(268 763.4)" fill="#fff" font-size="15" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">#ICYMI - NASCAR vs Formula 1</tspan></text>
+      <text id="In_case_you_missed_this_episode_on_the_Playing_with_Science_channel..._NASCAR_of_Formula_1_Which_one_do_you_choose_Our_host_Chuck_Nice_and_Gary_O_Reilly_sit_down_with_science_communicator_Diandra_Leslie-Pelecky_PhD_to_try_and_determine_who_takes_the_ch" data-name="In case you missed this episode on the Playing with Science channel... NASCAR of Formula 1? Which one do you choose? Our host Chuck Nice
+and Gary O&apos;Reilly sit down with science communicator Diandra Leslie-Pelecky, PhD, to try and determine who takes the ch" transform="translate(268 789.399)" fill="#99999f" font-size="14" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">In case you missed this episode on the Playing with Science channel... NASCAR of Formula 1? Which one do you choose? Our host Chuck Nice</tspan><tspan x="0" y="24">and Gary O&apos;Reilly sit down with science communicator Diandra Leslie-Pelecky, PhD, to try and determine who takes the checkered flag.</tspan></text>
+      <rect id="Rectangle_3042" data-name="Rectangle 3042" width="120" height="4" rx="2" transform="translate(1259 782.4)" fill="#949494" opacity="0.2"/>
+      <g id="Podcast-2" data-name="Podcast" transform="translate(234 778.399)">
+        <path id="Path_457-2" data-name="Path 457" d="M11.411,1.2a3.373,3.373,0,0,1,.941,2.268A3.3,3.3,0,0,1,11.3,5.9" transform="translate(-2.92 2.111)" fill="none"/>
+        <path id="Path_458-2" data-name="Path 458" d="M2.085,5.826A3.37,3.37,0,0,1,1.975,1.4" transform="translate(1.591 2.021)" fill="none"/>
+        <path id="Path_464-2" data-name="Path 464" d="M18.015,2.6A8.053,8.053,0,0,0,15.8,8.089a8.007,8.007,0,0,0,2.5,5.778" transform="translate(-15.8 -2.6)" fill="none" stroke="#fff" stroke-width="1.5"/>
+        <path id="Path_465-2" data-name="Path 465" d="M12.048,1.7A4.877,4.877,0,0,0,10.7,5.167a4.678,4.678,0,0,0,1.637,3.66" transform="translate(-7.811 0.322)" fill="none" stroke="#fff" stroke-width="1.5"/>
+        <path id="Path_466-2" data-name="Path 466" d="M16.089,2.6A8.053,8.053,0,0,1,18.3,8.089a8.007,8.007,0,0,1-2.5,5.778" transform="translate(-6.111 -2.6)" fill="none" stroke="#fff" stroke-width="1.5"/>
+        <path id="Path_467-2" data-name="Path 467" d="M10.989,1.7a4.877,4.877,0,0,1,1.348,3.467A4.678,4.678,0,0,1,10.7,8.827" transform="translate(-3.033 0.322)" fill="none" stroke="#fff" stroke-width="1.5"/>
+      </g>
+    </g>
+    <g id="Einstein_s_Genius_with_Ron_Howard" data-name="Einstein&apos;s Genius, with Ron Howard">
+      <text id="_52:19" data-name="52:19" transform="translate(1646 683.4)" fill="#99999f" font-size="15" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">52:19</tspan></text>
+      <text id="_15_03_19" data-name="15/03/19" transform="translate(1439 683.4)" fill="#99999f" font-size="15" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">15/03/19</tspan></text>
+      <text id="Einstein_s_Genius_with_Ron_Howard-2" data-name="Einstein&apos;s Genius, with Ron Howard" transform="translate(268 658.399)" fill="#fff" font-size="15" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">Einstein&apos;s Genius, with Ron Howard</tspan></text>
+      <text id="Neil_deGrasse_Tyson_filmmaker_Ron_Howard_astrophysicist_Janna_Levit_and_comic_co-host_Harrison_Greenbaum_celebrate_and_explore_the_life_of_Albert_Einstein_including_his_path_to_scientific_enlightenment_and_the_impact_of_his_genius_on_the_world._NOTE:_" data-name="Neil deGrasse Tyson, filmmaker Ron Howard, astrophysicist Janna Levit, and comic co-host Harrison Greenbaum celebrate and explore the life 
+of Albert Einstein, including his path to scientific enlightenment and the impact of his genius on the world. NOTE: " transform="translate(268 684.399)" fill="#99999f" font-size="14" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">Neil deGrasse Tyson, filmmaker Ron Howard, astrophysicist Janna Levit, and comic co-host Harrison Greenbaum celebrate and explore the life </tspan><tspan x="0" y="24">of Albert Einstein, including his path to scientific enlightenment and the impact of his genius on the world. NOTE: StarTalk All-Access subscrib...</tspan></text>
+      <rect id="Rectangle_3040" data-name="Rectangle 3040" width="120" height="4" rx="2" transform="translate(1259 677.399)" fill="#949494" opacity="0.2"/>
+      <g id="Podcast-3" data-name="Podcast" transform="translate(234 673.399)">
+        <path id="Path_457-3" data-name="Path 457" d="M11.411,1.2a3.373,3.373,0,0,1,.941,2.268A3.3,3.3,0,0,1,11.3,5.9" transform="translate(-2.92 2.111)" fill="none"/>
+        <path id="Path_458-3" data-name="Path 458" d="M2.085,5.826A3.37,3.37,0,0,1,1.975,1.4" transform="translate(1.591 2.021)" fill="none"/>
+        <path id="Path_464-3" data-name="Path 464" d="M18.015,2.6A8.053,8.053,0,0,0,15.8,8.089a8.007,8.007,0,0,0,2.5,5.778" transform="translate(-15.8 -2.6)" fill="none" stroke="#fff" stroke-width="1.5"/>
+        <path id="Path_465-3" data-name="Path 465" d="M12.048,1.7A4.877,4.877,0,0,0,10.7,5.167a4.678,4.678,0,0,0,1.637,3.66" transform="translate(-7.811 0.322)" fill="none" stroke="#fff" stroke-width="1.5"/>
+        <path id="Path_466-3" data-name="Path 466" d="M16.089,2.6A8.053,8.053,0,0,1,18.3,8.089a8.007,8.007,0,0,1-2.5,5.778" transform="translate(-6.111 -2.6)" fill="none" stroke="#fff" stroke-width="1.5"/>
+        <path id="Path_467-3" data-name="Path 467" d="M10.989,1.7a4.877,4.877,0,0,1,1.348,3.467A4.678,4.678,0,0,1,10.7,8.827" transform="translate(-3.033 0.322)" fill="none" stroke="#fff" stroke-width="1.5"/>
+      </g>
+    </g>
+    <g id="Cosmic_Queries_-_Across_the_Universe" data-name="Cosmic Queries - Across the Universe">
+      <text id="_52:15" data-name="52:15" transform="translate(1646 1000.399)" fill="#99999f" font-size="15" font-family="OpenSans, Open Sans" letter-spacing="0.006em"><tspan x="0" y="0">52:15</tspan></text>
+      <text id="_01_03_19" data-name="01/03/19" transform="translate(1439 1000.399)" fill="#99999f" font-size="15" font-family="OpenSans, Open Sans" letter-spacing="0.006em"><tspan x="0" y="0">01/03/19</tspan></text>
+      <text id="Cosmic_Queries_-_Across_the_Universe-2" data-name="Cosmic Queries - Across the Universe" transform="translate(268 973.399)" fill="#fff" font-size="15" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">Cosmic Queries - Across the Universe</tspan></text>
+      <text id="Continuing_our_Let_s_Make_America_Smart_Again_series_Neil_deGrasse_Tyson_comic_co-host_Felicia_Madison_and_Pulitzer_Prize-winning_science_journalist_Laurie_Garret_eradicate_unfounded_disinformation_and_dish_out_smart_sensible_knowledge_and_understandi" data-name="Continuing our Let&apos;s Make America Smart Again series, Neil deGrasse Tyson, comic co-host Felicia Madison, and Pulitzer Prize-winning science 
+journalist Laurie Garret eradicate unfounded disinformation and dish out smart, sensible knowledge and understandi" transform="translate(268 999.399)" fill="#99999f" font-size="14" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">Continuing our Let&apos;s Make America Smart Again series, Neil deGrasse Tyson, comic co-host Felicia Madison, and Pulitzer Prize-winning science </tspan><tspan x="0" y="24">journalist Laurie Garret eradicate unfounded disinformation and dish out smart, sensible knowledge and understanding about vaccines...</tspan></text>
+      <rect id="Rectangle_3045" data-name="Rectangle 3045" width="120" height="4" rx="2" transform="translate(1259 992.399)" fill="#949494" opacity="0.2"/>
+      <g id="Podcast-4" data-name="Podcast" transform="translate(234 988.399)">
+        <path id="Path_457-4" data-name="Path 457" d="M11.411,1.2a3.373,3.373,0,0,1,.941,2.268A3.3,3.3,0,0,1,11.3,5.9" transform="translate(-2.92 2.111)" fill="none"/>
+        <path id="Path_458-4" data-name="Path 458" d="M2.085,5.826A3.37,3.37,0,0,1,1.975,1.4" transform="translate(1.591 2.021)" fill="none"/>
+        <path id="Path_464-4" data-name="Path 464" d="M18.015,2.6A8.053,8.053,0,0,0,15.8,8.089a8.007,8.007,0,0,0,2.5,5.778" transform="translate(-15.8 -2.6)" fill="none" stroke="#fff" stroke-width="1.5"/>
+        <path id="Path_465-4" data-name="Path 465" d="M12.048,1.7A4.877,4.877,0,0,0,10.7,5.167a4.678,4.678,0,0,0,1.637,3.66" transform="translate(-7.811 0.322)" fill="none" stroke="#fff" stroke-width="1.5"/>
+        <path id="Path_466-4" data-name="Path 466" d="M16.089,2.6A8.053,8.053,0,0,1,18.3,8.089a8.007,8.007,0,0,1-2.5,5.778" transform="translate(-6.111 -2.6)" fill="none" stroke="#fff" stroke-width="1.5"/>
+        <path id="Path_467-4" data-name="Path 467" d="M10.989,1.7a4.877,4.877,0,0,1,1.348,3.467A4.678,4.678,0,0,1,10.7,8.827" transform="translate(-3.033 0.322)" fill="none" stroke="#fff" stroke-width="1.5"/>
+      </g>
+    </g>
+    <g id="Vaccines_-_Let_s_Make_America_Smart_Again" data-name="Vaccines - Let&apos;s Make America Smart Again">
+      <rect id="Rectangle_1869" data-name="Rectangle 1869" width="1480" height="100" rx="8" transform="translate(220 839.399)" fill="#35373b" opacity="0.7"/>
+      <text id="_51:42" data-name="51:42" transform="translate(1646 893.399)" fill="#99999f" font-size="15" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">51:42</tspan></text>
+      <text id="_08_03_19" data-name="08/03/19" transform="translate(1439 893.399)" fill="#99999f" font-size="15" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">08/03/19</tspan></text>
+      <text id="Vaccines_-_Let_s_Make_America_Smart_Again-2" data-name="Vaccines - Let&apos;s Make America Smart Again" transform="translate(268 868.399)" fill="#fff" font-size="15" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">Vaccines - Let&apos;s Make America Smart Again</tspan></text>
+      <text id="Continuing_our_Let_s_Make_America_Smart_Again_series_Neil_deGrasse_Tyson_comic_co-host_Felicia_Madison_and_Pulitzer_Prize-winning_science_journalist_Laurie_Garret_eradicate_unfounded_disinformation_and_dish_out_smart_sensible_knowledge_and_understandi-2" data-name="Continuing our Let&apos;s Make America Smart Again series, Neil deGrasse Tyson, comic co-host Felicia Madison, and Pulitzer Prize-winning science 
+journalist Laurie Garret eradicate unfounded disinformation and dish out smart, sensible knowledge and understandi" transform="translate(268 894.4)" fill="#99999f" font-size="14" font-family="Lato-Regular, Lato" letter-spacing="0.006em"><tspan x="0" y="0">Continuing our Let&apos;s Make America Smart Again series, Neil deGrasse Tyson, comic co-host Felicia Madison, and Pulitzer Prize-winning science </tspan><tspan x="0" y="24">journalist Laurie Garret eradicate unfounded disinformation and dish out smart, sensible knowledge and understanding about vaccines...</tspan></text>
+      <rect id="Rectangle_3041" data-name="Rectangle 3041" width="120" height="4" rx="2" transform="translate(1259 887.4)" fill="#949494" opacity="0.2"/>
+      <g id="Play" transform="translate(231 878.399)">
+        <rect id="Rectangle_2482" data-name="Rectangle 2482" width="22" height="22" rx="11" fill="#1c1c1c" opacity="0.84"/>
+        <path id="Path_368" data-name="Path 368" d="M0,0,8.571,5,0,10Z" transform="translate(8 6)" fill="#fff"/>
+      </g>
+      <g id="More-2" data-name="More" transform="translate(1606 887.399) rotate(90)">
+        <circle id="Ellipse_23-2" data-name="Ellipse 23" cx="1.8" cy="1.8" r="1.8" fill="#fff"/>
+        <circle id="Ellipse_24-2" data-name="Ellipse 24" cx="1.8" cy="1.8" r="1.8" transform="translate(0 7.2)" fill="#fff"/>
+        <circle id="Ellipse_25-2" data-name="Ellipse 25" cx="1.8" cy="1.8" r="1.8" transform="translate(0 14.4)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

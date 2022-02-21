@@ -1,0 +1,17 @@
+.popularss {
+  display: flex;
+  justify-content: space-between;
+  margin: 4rem 0;
+}
+
+.populars__image {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 2rem 0;
+  img {
+    width: 16rem;
+  }
+}
+
+
